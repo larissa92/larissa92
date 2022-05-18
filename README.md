@@ -17,6 +17,8 @@
         
        
        Estou aprendendo Back End e requições de servidores.... Trilha de Conhecimento 
+       
+       ![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <!---
 larissa92/larissa92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
