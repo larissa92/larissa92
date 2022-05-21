@@ -1,6 +1,5 @@
- Larissa,  Desenvovimento Web .
 
-[<img src="https://github.com/larissa92/larissa92/blob/main/capa.png"/>]
+<img src="https://github.com/larissa92/larissa92/blob/main/capa.png"/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) 
 
