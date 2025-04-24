@@ -1,4 +1,4 @@
-## Oiii, eu sou a Larissa Irene Aguiar! 🚀
+## Oiii, eu sou a Larissa Irene Aguiar 🚀
 
 Sou desenvolvedora e empreendedora apaixonada por tecnologia, inovação e resolução de problemas. Tenho experiência em desenvolvimento web e mobile, com foco em criar soluções criativas e funcionais. Meu objetivo é combinar design e código para entregar experiências incríveis para os usuários.
 
