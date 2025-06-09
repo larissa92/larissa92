@@ -3,6 +3,7 @@
 Sou desenvolvedora e empreendedora apaixonada por tecnologia, inovação e resolução de problemas. Tenho experiência em desenvolvimento web e mobile, com foco em criar soluções criativas e funcionais. Meu objetivo é combinar design e código para entregar experiências incríveis para os usuários.
 
   #### 🤖 Linguagens e Tecnologias
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Larissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,6 +14,7 @@ Sou desenvolvedora e empreendedora apaixonada por tecnologia, inovação e resol
   <img align="center" alt="Larissa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Larissa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
  
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
