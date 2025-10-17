@@ -2,6 +2,13 @@
 
 Sou desenvolvedora e empreendedora apaixonada por tecnologia, inovação e resolução de problemas. Tenho experiência em desenvolvimento web e mobile, com foco em criar soluções criativas e funcionais. Meu objetivo é combinar design e código para entregar experiências incríveis para os usuários.
 
+## Competências técnicas
+- Visualização de dados & dashboards: Looker Studio, Tableau, Power BI
+- Prototipagem e UI: Figma, Adobe XD
+- Data & scripting: Google Colab (Python, pandas, matplotlib, seaborn), SQL básico
+- AI-assisted design & automação: Microsoft Copilot Studio, GitHub Copilot
+- Outras: Git, Google Sheets, integração APIs, testes de usabilidade
+
   #### 🤖 Linguagens e Tecnologias
 
   
