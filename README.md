@@ -1,6 +1,6 @@
 ## Oi, eu sou a Larissa Irene Aguiar 🚀
 
-Sou desenvolvedora e empreendedora apaixonada por tecnologia, inovação e resolução de problemas. Tenho experiência em desenvolvimento web e mobile, com foco em criar soluções criativas e funcionais. Meu objetivo é combinar design e código para entregar experiências incríveis para os usuários.
+Sou desenvolvedora e empreendedora apaixonada por tecnologia, inovação e resolução de problemas. Tenho experiência em desenvolvimento web e mobile, com foco em criar soluções criativas e funcionais. Meu objetivo é combinar designer e código para entregar experiências incríveis para os usuários.
 
 ### Competências técnicas
 - Visualização de dados & dashboards: Looker Studio, Tableau, Power BI
