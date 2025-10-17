@@ -9,7 +9,7 @@ Sou desenvolvedora e empreendedora apaixonada por tecnologia, inovação e resol
 - AI-assisted design & automação: Microsoft Copilot Studio, GitHub Copilot
 - Outras: Git, Google Sheets, integração APIs, testes de usabilidade
 
-  #### 🤖 Linguagens e Tecnologias
+#### 🤖 Linguagens e Tecnologias
 
   
     Javascript  |  Typescript  |  React   |   Html5   |   Css3   |   Python   |   Csharp   |    Java    |    SQL    |    C++
