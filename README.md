@@ -3,8 +3,9 @@
 Sou desenvolvedora e empreendedora apaixonada por tecnologia, inovação e resolução de problemas. Tenho experiência em desenvolvimento web e mobile, com foco em criar soluções criativas e funcionais. Meu objetivo é combinar design e código para entregar experiências incríveis para os usuários.
 
   #### 🤖 Linguagens e Tecnologias
+
   
- Javascript | Typescript |React | Html5 | Css3 | Python | Csharp | Java | SQL | C++
+    Javascript  |  Typescript  |  React   |   Html5   |   Css3   |   Python   |   Csharp   |    Java    |    SQL    |    C++
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Larissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
