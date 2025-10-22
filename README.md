@@ -6,7 +6,7 @@ Sou desenvolvedora e empreendedora apaixonada por tecnologia, inovação e resol
 - Visualização de dados & dashboards: Looker Studio, Power BI.
 - Prototipagem e UI: Figma, Adobe XD
 - Data & scripting: Google Colab (Python, pandas, matplotlib, seaborn), SQL básico
-- AI-assisted design & automação: Microsoft Copilot Studio, GitHub Copilot
+- AI-assisted design & automação: Microsoft Copilot Studio
 - Outras: Git, Google Sheets, integração APIs, testes de usabilidade
 
 #### 🤖 Linguagens e Tecnologias
